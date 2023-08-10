@@ -8,7 +8,7 @@
 <div>
   <p>
     <img align="center" src="https://dg8krxphbh767.cloudfront.net/tracks/go.svg" width="70" height="75">
-    <img align="center" src="https://dg8krxphbh767.cloudfront.net/tracks/postgres.svg" width="70" height="75">
+    <img align="center" src="https://dg8krxphbh767.cloudfront.net/tracks/mysql.svg" width="70" height="75">
     <img align="center" src="https://dg8krxphbh767.cloudfront.net/tracks/c.svg" width="70" height="75">
     <img align="center" src="https://dg8krxphbh767.cloudfront.net/tracks/cpp.svg" width="70" height="75">
   </p>

@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craftbec)](https://github.com/craftbec/github-readme-stats)
 <!--
 **Craftbec/Craftbec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

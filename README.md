@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+---
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" **alt="Go" width="70" height="75"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original-wordmark.svg" title="Elasticsearch" **alt="Elasticsearch" width="70" height="75"/>&nbsp;
@@ -12,6 +12,11 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" **alt="Qt" width="70" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="70" height="75"/>&nbsp;
 </div>
+
+---
+
+### Contact Me :memo:
+
 <div>
 <a href="https://t.me/Lenochka_3">
 <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&color=blue"/>
